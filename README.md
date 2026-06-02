@@ -58,54 +58,6 @@ Passionate about solving real-world business problems through data-driven decisi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🚗 Car Market Data Analysis — Python EDA
-> **Tools:** Python · Pandas · Matplotlib · Seaborn
-
-- 🔍 Performed end-to-end data cleaning on **11,000+ car records** — handled missing values, removed duplicates, standardized columns
-- ⚙️ Engineered features like `avg_mpg` and `price_category` using Pandas
-- 📊 Answered **11+ business questions** covering brand popularity, MSRP pricing, fuel types, and vehicle styles
-- 📈 Built **8+ visualizations** — bar charts, scatter plots, pie charts, line graphs, and box plots
-
-[![View Project](https://img.shields.io/badge/View%20Project-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SachinDevarajan)
-
----
-
-### 📦 Amazon Sales Dashboard — Power BI
-> **Tools:** Power BI · DAX · Data Modeling · Star Schema
-
-- 🗂️ Created a **star schema** data model using Fact and Dimension tables (Sales, Product, Customer, Orders, Calendar)
-- 📉 Built visualizations: Yearly Sales Trend, Sales vs Profit by Category, Category Distribution, Order Funnel
-- 💡 Improved decision-making by highlighting key **revenue-driving categories** and profit trends
-
-[![View Project](https://img.shields.io/badge/View%20Project-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SachinDevarajan)
-
----
-
-### 🌍 Global Super Store — Sales Performance Dashboard
-> **Tools:** Microsoft Excel · Pivot Tables · Slicers · Data Visualization
-
-- 📋 Analyzed **51,290 orders** across multiple regions, segments, and product categories
-- 📊 Created **6 interactive charts**: Category Sales & Profit, Monthly Trend, Yearly Trend, Profit by Quarter, Top 5 & Bottom 5
-- 🏆 Identified **Technology and Phones** as top revenue drivers; Labels and Paper as least profitable
-
-[![View Project](https://img.shields.io/badge/View%20Project-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SachinDevarajan)
-
----
-
-### 🚙 BMW Car Data Cleaning & Analysis — Excel Dashboard
-> **Tools:** Microsoft Excel · Pivot Tables · Slicers
-
-- 🌐 Analyzed **9,082 BMW vehicle records** spanning **8+ countries**
-- 🧹 Performed data cleaning — removed duplicates, handled missing values, corrected data formats
-- 📊 Built Pivot Tables to identify **pricing and sales trends** across car models and fuel types
-
-[![View Project](https://img.shields.io/badge/View%20Project-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SachinDevarajan)
-
----
 
 ## 📊 GitHub Stats
 
