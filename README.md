@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachindevarajan)
 [![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SachinDevarajan)
-[![Email](https://img.shields.io/badge/Email-contact%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachindevarajan7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachindevarajan7@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-00C9A7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bangalore,India)
 
 </div>
