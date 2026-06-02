@@ -87,14 +87,18 @@ Passionate about solving real-world business problems through data-driven decisi
 
 ## 📈 Skills Overview
 
-```
-Data Analytics     ████████████████████  90%
-Python             ████████████████░░░░  80%
-SQL                ████████████████░░░░  80%
-Power BI           █████████████████░░░  85%
-Machine Learning   ██████████████░░░░░░  70%
-Excel              █████████████████░░░  85%
-```
+
+| Category                 | Skills                                                                 |
+| ------------------------ | ---------------------------------------------------------------------- |
+| 📊 Data Analytics        | Data Cleaning, EDA, Feature Engineering, Data Visualization, Reporting |
+| 💻 Programming           | Python, SQL                                                            |
+| 📈 Business Intelligence | Power BI, DAX, Power Query                                             |
+| 📑 Spreadsheet Analysis  | Microsoft Excel, Pivot Tables, Lookup Functions                        |
+| 🤖 Machine Learning      | Classification, Regression, Model Evaluation                           |
+| 📚 Python Libraries      | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn                       |
+| 🗄️ Database             | MySQL                                                                  |
+| 🛠️ Tools                | Git, GitHub, VS Code                                                   |
+
 
 ---
 
