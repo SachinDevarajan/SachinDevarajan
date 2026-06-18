@@ -5,15 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=00C9A7\&center=true\&vCenter=true\&width=800\&lines=Aspiring+Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI+🚀;Machine+Learning+Engineer+🤖;Turning+Raw+Data+Into+Business+Insights+💡;Open+to+Data+Analyst+Opportunities+🌟)](https://git.io/typing-svg)
 
-<br>
 
-![](https://komarev.com/ghpvc/?username=SachinDevarajan\&label=Profile+Views\&color=00C9A7\&style=for-the-badge)
-
-![](https://img.shields.io/github/followers/SachinDevarajan?label=Followers\&style=for-the-badge\&color=00C9A7)
-
-![](https://img.shields.io/github/stars/SachinDevarajan?label=Total%20Stars\&style=for-the-badge\&color=00C9A7)
-
-<br><br>
 
 <a href="https://linkedin.com/in/sachindevarajan">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -239,13 +231,7 @@ Snowflake           ██████░░░░░░░░░░ 40%
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SachinDevarajan/SachinDevarajan/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
