@@ -1,14 +1,31 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=220&section=header&text=Sachin%20Devarajan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20|%20Python%20|%20SQL%20|%20Power%20BI%20|%20Machine%20Learning&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI+🚀;Turning+Raw+Data+Into+Business+Insights+💡;Open+to+Data+Analyst+Opportunities+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=00C9A7\&center=true\&vCenter=true\&width=800\&lines=Aspiring+Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI+🚀;Machine+Learning+Engineer+🤖;Turning+Raw+Data+Into+Business+Insights+💡;Open+to+Data+Analyst+Opportunities+🌟)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachindevarajan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sachindevarajans.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachindevarajan7@gmail.com)
+![](https://komarev.com/ghpvc/?username=SachinDevarajan\&label=Profile+Views\&color=00C9A7\&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/SachinDevarajan?label=Followers\&style=for-the-badge\&color=00C9A7)
+
+![](https://img.shields.io/github/stars/SachinDevarajan?label=Total%20Stars\&style=for-the-badge\&color=00C9A7)
+
+<br><br>
+
+<a href="https://linkedin.com/in/sachindevarajan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://sachindevarajans.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:sachindevarajan7@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -35,39 +52,88 @@ sachin = {
 }
 ```
 
-📊 Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, Power BI, Tableau, and Machine Learning.
+📊 Aspiring Data Analyst passionate about uncovering insights through data.
 
-📈 Skilled in Data Cleaning, EDA, Dashboard Development, KPI Reporting, and Business Intelligence.
+📈 Experienced in Python, SQL, Excel, Power BI, Tableau, and Machine Learning.
 
-🚀 Passionate about solving business problems through data-driven decision making.
+🚀 Focused on solving business problems through analytics and data-driven decision making.
 
-🌱 Currently learning PySpark, Snowflake, and Advanced SQL.
+🌱 Currently learning PySpark, Snowflake, Data Engineering, and Advanced SQL.
+
+💡 Strong interest in Business Intelligence, Data Visualization, Machine Learning, and Predictive Analytics.
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SachinDevarajan&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
 
 ---
 
 # 💼 Experience
 
-### Data Science Intern | QSpiders
+## Data Science Intern | QSpiders
 
 📅 Dec 2025 – Present
 
-- Cleaned and transformed datasets using Python, Pandas, and NumPy.
-- Conducted Exploratory Data Analysis (EDA).
-- Built dashboards and visualizations using Tableau and Power BI.
-- Developed Machine Learning models using Scikit-Learn.
-- Applied feature engineering and model evaluation techniques.
+* Cleaned and transformed datasets using Python, Pandas, and NumPy.
+* Conducted Exploratory Data Analysis (EDA).
+* Built dashboards using Power BI and Tableau.
+* Developed Machine Learning models using Scikit-Learn.
+* Applied Feature Engineering and Model Evaluation techniques.
+* Worked with Classification, Regression, and Clustering algorithms.
 
 ---
 
 # 🚀 Featured Projects
 
+## 🤖 Machine Learning Repository
+
+🔹 Comprehensive Machine Learning repository covering:
+
+* Supervised Learning
+* Unsupervised Learning
+* Feature Engineering
+* Vectorization
+* Ensemble Learning
+* Model Evaluation
+* Real-world Datasets
+
+🔗 https://github.com/SachinDevarajan/ML
+
+---
+
 ## 📊 Amazon Sales Dashboard | Power BI
 
-🔹 Developed interactive sales dashboard using DAX and data modeling.
+🔹 Developed interactive Power BI dashboard.
 
-🔹 Built KPI Cards, Revenue Analysis, Profit Tracking, and Category Insights.
+🔹 Built KPI Cards, Revenue Analysis, Category Analysis.
 
-🔹 Enabled business performance monitoring through visual analytics.
+🔹 Enabled business performance monitoring.
+
+---
+
+## 🛒 Blinkit Sales Dashboard
+
+🔹 Analyzed sales trends and customer behavior.
+
+🔹 Created dynamic dashboards and KPI reports.
+
+🔹 Delivered business insights through visual storytelling.
+
+---
+
+## 🏪 FirstCry Sales Analysis
+
+🔹 Performed data cleaning and transformation.
+
+🔹 Developed interactive reports and dashboards.
+
+🔹 Generated actionable business insights.
 
 ---
 
@@ -75,65 +141,56 @@ sachin = {
 
 🔹 Analyzed 11,000+ vehicle records.
 
-🔹 Performed data cleaning, feature engineering, and EDA.
+🔹 Created business-focused visualizations.
 
-🔹 Created 8+ business-focused visualizations.
-
-🔹 Identified key factors influencing vehicle pricing.
-
----
-
-## 🏪 Global Super Store Dashboard | Excel
-
-🔹 Analyzed 51,000+ retail orders.
-
-🔹 Built interactive Pivot Table dashboards.
-
-🔹 Generated category, sales, and profitability insights.
-
-🔹 Discovered seasonal and regional sales trends.
-
----
-
-## 🚘 BMW Data Cleaning & Analysis | Excel
-
-🔹 Cleaned and standardized 9,082 records.
-
-🔹 Removed duplicates and handled missing values.
-
-🔹 Created interactive dashboards using Pivot Tables and Slicers.
-
-🔹 Generated analysis-ready datasets for reporting.
+🔹 Identified factors affecting vehicle pricing.
 
 ---
 
 # 🛠️ Tech Stack
 
-### 📊 Data Analytics & BI
+<div align="center">
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### Programming Languages
 
-### 💻 Programming
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</div>
+
+<br>
+
+### 📊 Data Analytics
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
 
 ### 📚 Libraries
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
 
-### 🗄️ Database & Tools
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+# 💡 Career Progress
+
+```text
+Python              ██████████████░░ 90%
+SQL                 █████████████░░░ 85%
+Power BI            ██████████████░░ 90%
+Excel               ██████████████░░ 90%
+Machine Learning    ████████████░░░░ 80%
+Statistics          ███████████░░░░░ 75%
+PySpark             ███████░░░░░░░░░ 45%
+Snowflake           ██████░░░░░░░░░░ 40%
+```
 
 ---
 
@@ -145,14 +202,16 @@ sachin = {
 
 ✅ Tata Data Visualisation: Empowering Business with Effective Insights
 
+✅ Data Analytics & Visualization Certifications
+
 ---
 
 # 📚 Education
 
-| Degree | Institution | CGPA |
-|----------|-------------|----------|
+| Degree                      | Institution                          | CGPA |
+| --------------------------- | ------------------------------------ | ---- |
 | M.Sc Information Technology | Rathinam College of Arts and Science | 6.80 |
-| B.Sc Computer Science | J.J College of Arts and Science | 7.44 |
+| B.Sc Computer Science       | J.J College of Arts and Science      | 7.44 |
 
 ---
 
@@ -174,6 +233,62 @@ sachin = {
 
 ---
 
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinDevarajan&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SachinDevarajan/SachinDevarajan/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/SachinDevarajan/ML">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinDevarajan&repo=ML&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/SachinDevarajan/Blinkit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinDevarajan&repo=Blinkit&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/SachinDevarajan/firstcry">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinDevarajan&repo=firstcry&theme=tokyonight"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 Goals for 2026
+
+☑ Complete 100+ SQL Problems
+
+☑ Build 25+ Data Analytics Projects
+
+☑ Master Advanced SQL
+
+☑ Learn PySpark
+
+☑ Learn Snowflake
+
+☑ Contribute to Open Source
+
+☑ Secure a Data Analyst Role
+
+☑ Become Industry Ready for Data Engineering
+
+---
+
 # 🔍 Currently Learning
 
 🚀 Advanced SQL
@@ -186,19 +301,34 @@ sachin = {
 
 🚀 Data Engineering Fundamentals
 
+
 ---
 
-# 🤝 Let's Connect
+# ⚡ Fun Facts
+
+* 📊 I love turning messy data into meaningful insights.
+* ☕ Coffee + SQL = Productivity.
+* 📈 Passionate about dashboards and storytelling.
+* 🤖 Interested in Machine Learning and AI.
+* 🎯 Goal: Work in a top product-based company.
+
+---
+
+# 📬 Connect With Me
 
 <div align="center">
 
-### Open to Data Analyst, Business Analyst, and Data Science Opportunities
+<a href="mailto:sachindevarajan7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-📧 sachindevarajan7@gmail.com
+<a href="https://linkedin.com/in/sachindevarajan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-💼 LinkedIn: linkedin.com/in/sachindevarajan
-
-🌐 Portfolio: sachindevarajans.netlify.app
+<a href="https://sachindevarajans.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </div>
 
@@ -207,6 +337,8 @@ sachin = {
 <div align="center">
 
 ### 📊 "Without data, you're just another person with an opinion."
+
+### ⭐ Thanks for visiting my profile! ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=footer"/>
 
