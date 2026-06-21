@@ -103,61 +103,56 @@ sachin = {
 
 # 🤖 Machine Learning Expertise
 
-### Supervised Learning
 
-✅ Linear Regression
+<div align="center">
 
-✅ Logistic Regression
+<table>
+<tr>
+<td align="center" width="33%">
 
-✅ Decision Trees
+### 📈 Learning
 
-✅ Random Forest
+Linear Regression  
+Logistic Regression  
+KNN  
+SVM  
+Naive Bayes  
 
-✅ KNN
+</td>
 
-✅ SVM
+<td align="center" width="33%">
 
-✅ Naive Bayes
+### 📊 Clustering
 
-### Unsupervised Learning
+K-Means  
+Customer Segmentation  
+Cluster Analysis  
 
-✅ K-Means Clustering
+</td>
 
-✅ Customer Segmentation
+<td align="center" width="33%">
 
-✅ Cluster Analysis
+### ⚙️ Pipelines
 
-### Model Optimization
+Pipeline  
+ColumnTransformer  
+GridSearchCV  
+Cross Validation  
 
-✅ GridSearchCV
+</td>
+</tr>
 
-✅ Cross Validation
+<tr>
+<td colspan="3" align="center">
 
-✅ Feature Engineering
+### ⚖️ Imbalanced Data
 
-✅ Regularization
+SMOTE • Over Sampling • Under Sampling • Imbalanced-Learn
 
-### Imbalanced Data Handling
-
-✅ Imbalanced-Learn
-
-✅ Random Over Sampling
-
-✅ SMOTE
-
-✅ Random Under Sampling
-
-✅ Class Balancing Techniques
-
-### ML Pipelines
-
-✅ Scikit-Learn Pipeline
-
-✅ ColumnTransformer
-
-✅ End-to-End ML Workflows
-
-✅ Model Deployment Preparation
+</td>
+</tr>
+</table>
+</div>
 
 🔗 https://github.com/SachinDevarajan/ML
 
