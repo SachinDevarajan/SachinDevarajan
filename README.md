@@ -1,23 +1,13 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=220&section=header&text=Sachin%20Devarajan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20|%20Python%20|%20SQL%20|%20Power%20BI%20|%20Machine%20Learning&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Sachin%20Devarajan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Data%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=18&descColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=00C9A7\&center=true\&vCenter=true\&width=800\&lines=Aspiring+Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI+🚀;Machine+Learning+Engineer+🤖;Turning+Raw+Data+Into+Business+Insights+💡;Open+to+Data+Analyst+Opportunities+🌟)](https://git.io/typing-svg)
+</div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Data+Analyst+📊;Data+Engineer+☁️;Machine+Learning+Enthusiast+🤖;PySpark+%7C+Snowflake+%7C+Databricks;Power+BI+%7C+SQL+%7C+Python;Building+Scalable+Data+Pipelines+🚀)](https://git.io/typing-svg)
 
+<br>
 
-<a href="https://linkedin.com/in/sachindevarajan">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://sachindevarajans.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:sachindevarajan7@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </div>
 
@@ -26,61 +16,57 @@
 # 👨‍💻 About Me
 
 ```python
-sachin = {
-    "name": "Sachin Devarajan",
-    "role": "Data Analyst",
-    "education": "M.Sc Information Technology",
-    "location": "Tamil Nadu, India",
-    "experience": "Data Science Intern @ QSpiders",
-    "skills": [
+class SachinDevarajan():
+
+    def __init__(self):
+
+        self.role = [
+            "Data Analyst",
+            "Data Science",
+            "Bussiness Analyst",
+            "Data Engineer",
+            "Machine Learning Enthusiast"
+        ]
+
+        self.skills = [
             "Python",
             "SQL",
             "Power BI",
             "Excel",
-            "Tableau",
             "Machine Learning",
-            "Hadoop",
-            "HDFS",
-            "Snowflake",
+            "Big Data",
             "PySpark",
-            "Imbalanced-Learn",
-            "Scikit-Learn Pipelines",
-            "K-Means Clustering",
-            "Over Sampling",
-            "Under Sampling"
+            "Snowflake",
+            "Databricks"
         ]
-    ],
-    "mission": "Transforming raw data into actionable business insights"
-}
+
+        self.current_focus = [
+            "Cloud Data Engineering",
+            "Big Data Analytics",
+            "ETL Pipelines",
+            "Data Warehousing"
+        ]
+
+        self.goal = "Building scalable data-driven solutions."
 ```
-
-📊 Aspiring Data Analyst passionate about uncovering insights through data.
-
-📈 Skilled in Python, SQL, Excel, Power BI, Tableau, Machine Learning, and Data Visualization.
-
-☁️ Exploring Modern Data Platforms including Snowflake and Big Data Technologies.
-
-🗄️ Hands-on experience with Hadoop Ecosystem, HDFS, and Distributed Data Processing concepts.
-
-🤖 Experienced in Machine Learning workflows including Feature Engineering, Pipelines, Model Evaluation, and Hyperparameter Tuning.
-
-⚖️ Knowledge of handling imbalanced datasets using Over Sampling, Under Sampling, and Imbalanced-Learn techniques.
-
-📊 Familiar with Supervised Learning, Unsupervised Learning, and K-Means Clustering.
-
-🌱 Currently learning PySpark, Snowflake, Data Engineering, Hadoop, and Advanced SQL.
-
-💡 Strong interest in Business Intelligence, Big Data Analytics, Machine Learning, and Data Engineering.
 
 ---
 
-# 🏆 GitHub Achievements
+## 🚀 What I Do
 
-<div align="center">
+📊 Analyze business data to uncover insights
 
-<img src="https://github-profile-trophy.vercel.app/?username=SachinDevarajan&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
+📈 Build interactive dashboards using Power BI
 
-</div>
+🤖 Develop Machine Learning models
+
+☁️ Build scalable ETL pipelines using PySpark
+
+❄️ Design cloud data warehouses in Snowflake
+
+⚡ Process big data using Databricks
+
+📂 Create end-to-end data engineering workflows
 
 ---
 
@@ -88,213 +74,109 @@ sachin = {
 
 ## Data Science Intern | QSpiders
 
-📅 Dec 2025 – Present
-
-* Cleaned and transformed datasets using Python, Pandas, and NumPy.
-* Conducted Exploratory Data Analysis (EDA).
-* Built dashboards using Power BI and Tableau.
-* Developed Machine Learning models using Scikit-Learn.
-* Applied Feature Engineering and Model Evaluation techniques.
-* Worked with Classification, Regression, and Clustering algorithms.
+- Data Cleaning
+- Exploratory Data Analysis
+- Machine Learning
+- Feature Engineering
+- Power BI Dashboards
+- SQL Analytics
+- Python Automation
 
 ---
 
 # 🚀 Featured Projects
 
-# 🤖 Machine Learning Expertise
+### 📊 Power BI Dashboards
 
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📈 Learning
-
-Linear Regression  
-Logistic Regression  
-KNN  
-SVM  
-Naive Bayes  
-
-</td>
-
-<td align="center" width="33%">
-
-### 📊 Clustering
-
-K-Means  
-Customer Segmentation  
-Cluster Analysis  
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ Pipelines
-
-Pipeline  
-ColumnTransformer  
-GridSearchCV  
-Cross Validation  
-
-</td>
-</tr>
-
-<tr>
-<td colspan="3" align="center">
-
-### ⚖️ Imbalanced Data
-
-SMOTE • Over Sampling • Under Sampling • Imbalanced-Learn
-
-</td>
-</tr>
-</table>
-</div>
-
-🔗 https://github.com/SachinDevarajan/ML
+- Blinkit Dashboard
+- Amazon Sales Dashboard
+- FirstCry Dashboard
 
 ---
 
-## 📊 Amazon Sales Dashboard | Power BI
+### 🤖 Machine Learning
 
-🔹 Developed interactive Power BI dashboard.
-
-🔹 Built KPI Cards, Revenue Analysis, Category Analysis.
-
-🔹 Enabled business performance monitoring.
-
----
-
-## 🛒 Blinkit Sales Dashboard
-
-🔹 Analyzed sales trends and customer behavior.
-
-🔹 Created dynamic dashboards and KPI reports.
-
-🔹 Delivered business insights through visual storytelling.
+- Customer Ticket Classification
+- Fake News Detection
+- IMDB Sentiment Analysis
+- AG News Classification
+- Titanic Survival Prediction
+- Loan Approval Prediction
+- House Price Prediction
 
 ---
 
-## 🏪 FirstCry Sales Analysis
+### ☁️ Data Engineering
 
-🔹 Performed data cleaning and transformation.
-
-🔹 Developed interactive reports and dashboards.
-
-🔹 Generated actionable business insights.
-
----
-
-## 🚗 Car Market Data Analysis | Python
-
-🔹 Analyzed 11,000+ vehicle records.
-
-🔹 Created business-focused visualizations.
-
-🔹 Identified factors affecting vehicle pricing.
+- PySpark ETL Pipeline
+- Snowflake Data Warehouse
+- Databricks Data Processing
+- End-to-End Cloud Data Pipeline
+- SQL Data Modeling
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-<div align="center">
+## Programming
 
-### Programming Languages
-
+<p>
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
+</p>
 
-### Tools & Platforms
+---
 
+## Tools
+
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</div>
-
-<br>
-
-### 📊 Data Analytics
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-
-### 📚 Libraries
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
-
-
-
-### Big Data Technologies
-
-✅ Hadoop
-
-✅ HDFS
-
-✅ PySpark
-
-✅ Snowflake
-
-✅ Distributed Data Processing
-
-✅ Data Engineering Fundamentals
-
-### Data Warehousing
-
-✅ Snowflake
-
-✅ ETL Concepts
-
-✅ Data Pipelines
-
-✅ Data Modeling
-
-✅ Data Integration
----
-
-# 💡 Career Progress
-
-```text
-Python              ██████████████░░ 90%
-SQL                 █████████████░░░ 85%
-Power BI            ██████████████░░ 90%
-Excel               ██████████████░░ 90%
-Machine Learning    ████████████░░░░ 80%
-Statistics          ███████████░░░░░ 75%
-PySpark             █████████░░░░░░░ 55%
-Snowflake           █████████░░░░░░░ 55%
-Hadoop              ████████░░░░░░░░ 50%
-HDFS                ████████░░░░░░░░ 50%
-ML Pipelines        ██████████░░░░░░ 65%
-Imbalanced-Learn    █████████░░░░░░░ 60%
-K-Means             ██████████░░░░░░ 70%
-```
+</p>
 
 ---
 
-# 🏆 Certifications
+## Data Analytics
 
-✅ HackerRank SQL (Intermediate)
+<p>
 
-✅ Deloitte Data Analytics Job Simulation
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-✅ Tata Data Visualisation: Empowering Business with Effective Insights
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
 
-✅ Data Analytics & Visualization Certifications
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+
+</p>
 
 ---
 
-# 📚 Education
+## Machine Learning
 
-| Degree                      | Institution                          | CGPA |
-| --------------------------- | ------------------------------------ | ---- |
-| M.Sc Information Technology | Rathinam College of Arts and Science | 6.80 |
-| B.Sc Computer Science       | J.J College of Arts and Science      | 7.44 |
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+---
+
+## Data Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+
+</p>
 
 ---
 
@@ -302,15 +184,25 @@ K-Means             ██████████░░░░░░ 70%
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinDevarajan&show_icons=true&theme=tokyonight&border_color=00C9A7&title_color=00C9A7&icon_color=00C9A7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinDevarajan&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinDevarajan&layout=compact&theme=tokyonight&border_color=00C9A7&title_color=00C9A7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinDevarajan&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SachinDevarajan&theme=tokyonight&border=00C9A7"/>
+<img src="https://streak-stats.demolab.com?user=SachinDevarajan&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SachinDevarajan&theme=algolia&row=2&column=4"/>
 
 </div>
 
@@ -318,91 +210,49 @@ K-Means             ██████████░░░░░░ 70%
 
 # 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinDevarajan&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinDevarajan&theme=react-dark"/>
 
 ---
 
+# 🎯 2026 Goals
 
+✅ Master Advanced SQL
 
----
+✅ PySpark Data Engineering
 
-# 🚀 Featured Repositories
+✅ Snowflake Cloud Data Warehouse
 
-<div align="center">
+✅ Databricks Workflows
 
-<a href="https://github.com/SachinDevarajan/ML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinDevarajan&repo=ML&theme=tokyonight"/>
-</a>
+✅ Apache Spark Optimization
 
-<a href="https://github.com/SachinDevarajan/Blinkit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinDevarajan&repo=Blinkit&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/SachinDevarajan/firstcry">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinDevarajan&repo=firstcry&theme=tokyonight"/>
-</a>
-
-</div>
-
----
-
-# 🎯 Goals for 2026
-
-☑ Complete 100+ SQL Problems
-
-☑ Build 25+ Data Analytics Projects
-
-☑ Master Advanced SQL
-
-☑ Learn Hadoop & HDFS
-
-☑ Learn PySpark
-
-☑ Learn Snowflake
-
-☑ Build End-to-End ML Pipelines
-
-☑ Master Imbalanced Dataset Handling
-
-☑ Contribute to Open Source
-
-☑ Secure a Data Analyst Role
-
-☑ Become Industry Ready for Data Engineering
-
----
-
-# 🔍 Currently Learning
-
-🚀 Advanced SQL
-
-🚀 PySpark
-
-🚀 Snowflake
-
-🚀 Machine Learning Pipelines
-
-🚀 Data Engineering Fundamentals
+✅ Build Enterprise ETL Pipelines
 
 
 ---
 
-# ⚡ Fun Facts
+---
 
-* 📊 I love turning messy data into meaningful insights.
-* ☕ Coffee + SQL = Productivity.
-* 📈 Passionate about dashboards and storytelling.
-* 🤖 Interested in Machine Learning and AI.
-* 🎯 Goal: Work in a top product-based company.
+# 💡 Fun Facts
+
+☕ Coffee + SQL = Productivity
+
+📊 Dashboards tell stories.
+
+⚡ Data Pipelines power businesses.
+
+🤖 Machine Learning transforms data into intelligence.
+
+☁️ Big Data enables scalable solutions.
 
 ---
 
-# 📬 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="mailto:sachindevarajan7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/sachindevarajan">
@@ -410,7 +260,7 @@ K-Means             ██████████░░░░░░ 70%
 </a>
 
 <a href="https://sachindevarajans.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 </div>
@@ -419,10 +269,10 @@ K-Means             ██████████░░░░░░ 70%
 
 <div align="center">
 
-### 📊 "Without data, you're just another person with an opinion."
-
-### ⭐ Thanks for visiting my profile! ⭐
+# ⭐ "Transforming Data into Insights, Intelligence, and Innovation."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/>
 
 </div>
