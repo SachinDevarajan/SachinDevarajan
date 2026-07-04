@@ -262,6 +262,6 @@ class SachinDevarajan():
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/> -->
 
 </div>
