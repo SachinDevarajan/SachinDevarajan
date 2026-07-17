@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Sachin%20Devarajan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Data%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Sachin%20Devarajan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Data%20Engineer%20|%20GenAI%20Engineer&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Data+Analyst+📊;Data+Engineer+☁️;Machine+Learning+Enthusiast+🤖;PySpark+%7C+Snowflake+%7C+Databricks;Power+BI+%7C+SQL+%7C+Python;Building+Scalable+Data+Pipelines+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Data+Analyst+📊;Data+Engineer+☁️;GenAI+Engineer+🧠;Machine+Learning+Enthusiast+🤖;PySpark+%7C+Snowflake+%7C+Databricks;Power+BI+%7C+SQL+%7C+Python;RAG+%7C+FAISS+%7C+LLMs;Building+Scalable+Data+Pipelines+🚀)](https://git.io/typing-svg)
 
 <br>
 
@@ -23,8 +23,9 @@ class SachinDevarajan():
         self.role = [
             "Data Analyst",
             "Data Science",
-            "Bussiness Analyst",
+            "Business Analyst",
             "Data Engineer",
+            "GenAI Engineer",
             "Machine Learning Enthusiast"
         ]
 
@@ -37,14 +38,19 @@ class SachinDevarajan():
             "Big Data",
             "PySpark",
             "Snowflake",
-            "Databricks"
+            "Databricks",
+            "RAG",
+            "FAISS",
+            "NLP",
+            "LLMs"
         ]
 
         self.current_focus = [
             "Cloud Data Engineering",
             "Big Data Analytics",
             "ETL Pipelines",
-            "Data Warehousing"
+            "Data Warehousing",
+            "Generative AI & RAG Pipelines"
         ]
 
         self.goal = "Building scalable data-driven solutions."
@@ -59,6 +65,8 @@ class SachinDevarajan():
 📈 Build interactive dashboards using Power BI
 
 🤖 Develop Machine Learning models
+
+🧠 Build RAG-based GenAI applications using FAISS and LLMs
 
 ☁️ Build scalable ETL pipelines using PySpark
 
@@ -94,6 +102,13 @@ class SachinDevarajan():
 
 ---
 
+### 🧠 Generative AI
+
+- AI-Powered PDF Question Answering System (RAG)
+- Python Tutor Chatbot (RAG-based)
+
+---
+
 ### 🤖 Machine Learning
 
 - Customer Ticket Classification
@@ -126,6 +141,17 @@ class SachinDevarajan():
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
+
+### 🧠 Generative AI
+
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6F61?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+
+---
 
 ### 🤖 Machine Learning
 
@@ -217,6 +243,8 @@ class SachinDevarajan():
 
 ✅ Build Enterprise ETL Pipelines
 
+✅ Deepen Generative AI & RAG Expertise
+
 
 ---
 
@@ -231,6 +259,8 @@ class SachinDevarajan():
 ⚡ Data Pipelines power businesses.
 
 🤖 Machine Learning transforms data into intelligence.
+
+🧠 RAG turns documents into answers.
 
 ☁️ Big Data enables scalable solutions.
 
